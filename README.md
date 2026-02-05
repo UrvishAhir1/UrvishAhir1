@@ -1,5 +1,3 @@
-<br clear="both">
-
 <div>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Hey%20👋%20I'm%20Urvish%20Ahir&fontSize=40&fontColor=ffffff&fontAlign=50&fontAlignY=30&animation=twinkling&color=0:0f2027,50:203a43,100:2c5364" />
 </div>
@@ -19,7 +17,7 @@ I’m an MCA student passionate about Data Science & Analytics, with a strong in
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Kaggle+Dataset+Expert;Python+%7C+SQL+%7C+EDA;Turning+Data+Into+Insights;Formula+1+%26+Strategy+Analytics+Fan;Chess+%7C+Gaming+%7C+Analytical+Thinking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Kaggle+Dataset+Expert;Python+%7C+SQL+%7C+EDA;Turning+Data+Into+Insights;Formula+1+%26+Strategy+Analytics+Fan;Chess+%7C+Video+Games" />
 </p>
 
 ---
@@ -82,11 +80,11 @@ I’m an MCA student passionate about Data Science & Analytics, with a strong in
 
 <img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJ6amYxbG1nd3piczU5MGhzNXo5aXNxdnA2amdoZW1kb29sdHFlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmTwNdfSoA9BNnTkKA/giphy.gif" />
 
-🚗 **Electric Vehicle Specs Dataset** - 478+ EV Models Scraped & Structured  
-₿ **Daily Crypto Market Tracker** - Automated API-based Time-Series Dataset  
-🏎 **Ferrari Images Dataset** - High-Resolution Image Collection  
-🌍 **Global Freelancers Dataset** - NLP & Data Cleaning Ready Dataset  
-🧱 **Minecraft Block Textures Dataset** - Image + Metadata Dataset  
+- **Electric Vehicle Specs Dataset** - 478+ EV Models Scraped & Structured  
+- **Daily Crypto Market Tracker** - Automated API-based Time-Series Dataset
+- **Ferrari Images Dataset** - High-Resolution Image Collection
+- **Global Freelancers Dataset** - NLP & Data Cleaning Ready Dataset
+- **Minecraft Block Textures Dataset** - Image + Metadata Dataset
 
 🔗 Kaggle: [urvishahir](https://www.kaggle.com/urvishahir)<br>
 🔗 HuggingFace: [UrvishAhir1](https://huggingface.co/UrvishAhir1)
@@ -111,6 +109,12 @@ I’m an MCA student passionate about Data Science & Analytics, with a strong in
 🔗 LinkedIn: [linkedin.com/in/urvishahir1](https://www.linkedin.com/in/urvishahir1/)  
 🔗 X (Twitter): [x.com/IAmUrvishAhir](https://x.com/IAmUrvishAhir)  
 🔗 Linktree: [linktr.ee/urvishahir1](https://linktr.ee/urvishahir1)
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=UrvishAhir1.UrvishAhir1" />
+</p>
 
 ---
 
