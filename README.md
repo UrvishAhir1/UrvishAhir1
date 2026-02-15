@@ -12,67 +12,50 @@
 
 ## 👨‍💻 About Me
 
-I’m an MCA student passionate about Data Science & Analytics, with a strong interest in turning raw data into meaningful insights. I enjoy working on real-world datasets, performing exploratory data analysis, and building structured data projects using Python and SQL. I’m continuously improving my analytical thinking, statistics, and machine learning fundamentals. Outside of data, I’m a huge Formula 1 fanatic who loves analyzing race strategies and performance stats, and I enjoy playing chess and video games in my free time.
+I’m an MCA student passionate about Data Science & Analytics, focused on transforming raw information into meaningful insights. I enjoy working with real-world datasets, performing exploratory data analysis, and building structured projects using Python and SQL. I’m continuously strengthening my analytical thinking, statistics, and machine learning foundations. 
+
+Beyond analytics, I’m a Formula 1 enthusiast who enjoys analyzing race strategies and performance metrics, and I spend my free time playing chess and video games :)
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Kaggle+Dataset+Expert;Python+%7C+SQL+%7C+EDA;Turning+Data+Into+Insights;Formula+1+%26+Strategy+Analytics+Fan;Chess+%7C+Video+Games" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Data+Science+%26+Analytics;Kaggle+Dataset+Expert;Python+%7C+SQL+%7C+EDA;Turning+Insights+Into+Impact;Formula+1+%26+Race+Strategy" />
 </p>
 
 ---
 
-## ⚙️ Core Skills
+# 💻 Tech Stack
 
-<div align="center">
+### 📊 Data Science & Analytics
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
-<img width="10" />
-<img src="https://skillicons.dev/icons?i=mysql" height="50" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" />
-<img width="10" />
-<img src="https://cdn.simpleicons.org/jupyter/F37626" height="50" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" />
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-</div>
+### 🌐 Web & Development
 
----
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-## 💻 Other Tools and Technologies
+### 🛠 Tools & Platforms
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="45" />
-<img width="10" />
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tortoisegit/tortoisegit-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="45" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="45" />
-
-</div>
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![TortoiseGit](https://img.shields.io/badge/TortoiseGit-000000?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -86,29 +69,18 @@ I’m an MCA student passionate about Data Science & Analytics, with a strong in
 - **Global Freelancers Dataset** - NLP & Data Cleaning Ready Dataset
 - **Minecraft Block Textures Dataset** - Image + Metadata Dataset
 
-🔗 Kaggle: [urvishahir](https://www.kaggle.com/urvishahir)<br>
-🔗 HuggingFace: [UrvishAhir1](https://huggingface.co/UrvishAhir1)
-
-<br clear="both">
-
----
-
-## 🎮 Contribution Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UrvishAhir1/UrvishAhir1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UrvishAhir1/UrvishAhir1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/UrvishAhir1/UrvishAhir1/output/pacman-contribution-graph.svg">
-</picture>
+🔗 Kaggle: [urvishahir](https://www.kaggle.com/urvishahir)
 
 ---
 
 ## 📫 Connect With Me
 
-🔗 Email: [urvishahir7@gmail.com](mailto:urvishahir7@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/urvishahir1](https://www.linkedin.com/in/urvishahir1/)  
-🔗 X (Twitter): [x.com/IAmUrvishAhir](https://x.com/IAmUrvishAhir)  
-🔗 Linktree: [linktr.ee/urvishahir1](https://linktr.ee/urvishahir1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvishahir7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvishahir1/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IAmUrvishAhir)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/urvishahir)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/UrvishAhir1)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/urvishahir1)
 
 ---
 
